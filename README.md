@@ -1,3 +1,4 @@
+![logo](https://github.com/drishyaa5/drishyaa5/blob/main/banner.gif)
 <h1 align="center">Hey 👋, I'm Drishya Adhikari</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 

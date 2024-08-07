@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaa5&label=Profile%20views&color=0e75b6&style=flat" alt="drishyaa5" /> </p>
 
-- 🔭 I’m currently working on **a full stack website using MERN**
+- 🔭 I’m currently working on **a full stack website using MERN and Game Development using C++**
 
 - 🌱 I’m currently learning **Software development**
 

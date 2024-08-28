@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a full stack website using MERN and Game Development using C++**
 
-- 🌱 I’m currently learning **Software development**
+- 🌱 I’m currently learning **Software development** and **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/drishyaa5/](https://github.com/drishyaa5/)
 

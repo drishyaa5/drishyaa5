@@ -89,5 +89,4 @@ contact    →  drishyaa005@gmail.com
 
 ---
 
-![snake](https://raw.githubusercontent.com/drishyaa5/drishyaa5/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake](https://raw.githubusercontent.com/drishyaa5/drishyaa5/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drishyaa5&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=7c3aed&point=f472b6)
